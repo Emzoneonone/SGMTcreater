@@ -1,10 +1,6 @@
 # SGMTcreater
 A powerful Ai Integrated Workstation Languages available
-简体中文（中国大陆）） (已支持)
-繁體中文（香港特別行政區）（未實裝）
-繁體中文（中國台灣省）(不支援)
-English(United States) （Available）
-日本語（日本）（未安裝）
+简体中文（中国大陆））
 -------------------------------------------
 （zhCN）
 SGMTcreater的初衷是为了简化麻烦的生成式ai的流程图，替代以简单明了的图形化操作界面，该插件为面向Deepseek Harness的拓展插件.
