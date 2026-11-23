@@ -3,26 +3,17 @@
 - 备份时间：2026-11-23 11:55（+08:00）
 - 显示名称：**AGmaster1.8beta**
 - 内部版本：**3.26.0**
-- 插件包：`@local/comfy-panel`
-- 源目录：`D:\aiLOCAL\comfy-panel`
-- 备份目录：`D:\aiLOCAL\backup\AGmaster1.8beta`
 
 ## 一键文件
 
 | 文件 | 作用 |
-|---|---|
-| **AGmaster1.8beta一键安装.cmd** | 安装到 `D:\aiLOCAL\comfy-panel` |
-| **AGmaster1.8beta一键还原.cmd** | 用本备份覆盖回插件目录 |
-
-两者流程一致：先备份现有版本 → 复制文件 → SHA256 校验 + 语法检查 → 不动 `state.json` → 提示重载。
-
-参数：`-IncludeState`（连用户数据回滚）、`-Target`（装到别处）、`-Quiet`（不等回车）。
+| **AGmaster1.8beta一键安装.cmd** 
+| **AGmaster1.8beta一键还原.cmd** 
 
 ## 本版新增 / 变更
 
 | # | 内容 |
 |---|---|
-| 0 | 改动前已存 `temp01` 兜底备份 |
 | 1 | 生成页高清修复：**重绘强度**与**修复步数**都带滑杆 + 数值框（可互相调整） |
 | 2 | 输出页默认只显示 **15 张**，底部「查看更多 (+N)」每次再加 15 张 |
 | 3 | 生成页**最底部新增生成按钮**（Ctrl+Enter 提示），写完提示词即可直接生成 |
