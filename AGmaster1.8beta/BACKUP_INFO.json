@@ -1,0 +1,24 @@
+{
+  "label": "AGmaster1.8beta",
+  "displayName": "AGmaster1.8beta",
+  "pluginPackage": "@local/comfy-panel",
+  "pluginVersion": "3.26.0",
+  "backedUpAt": "2026-11-23T11:55:00+08:00",
+  "sourcePath": "D:\\aiLOCAL\\comfy-panel",
+  "installers": {
+    "install": "AGmaster1.8beta一键安装.cmd",
+    "restore": "AGmaster1.8beta一键还原.cmd",
+    "script": "AGmaster1.8beta安装.ps1"
+  },
+  "changes": [
+    "Hires fix denoise and steps both have slider + number box.",
+    "Outputs tab paginates 15 images at a time with Show more.",
+    "Generate tab has a generate button at the very bottom.",
+    "Ext tab replaced by Workbench: refine the newest generate result.",
+    "Panel renamed AGmaster1.8beta, version 3.26.0."
+  ],
+  "notes": [
+    "Package name stays @local/comfy-panel.",
+    "Previous state saved as temp01 backup before these changes."
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "ComfyUI",
+    "description": "Local generation with one unified style picker (built-in words, recipes, saved presets and custom categories), 25 recipes, annotated checkpoints and LoRAs, an idea mixer, prompt tidy and saved prompts with categories."
+  }
+}

@@ -1,0 +1,1912 @@
+{
+  "settings": {
+    "mode": "t2i",
+    "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),masterpiece, best quality, 1girl, solo, soft lighting, warm lighting, single light source,low contrast, pale shadows, soft shadows,\ncreamy highlights, warm skin tone, pastel colors, beige tone, warm color palette,\nthin lineart, brown lineart, soft outlines,\nflat color, subtle gradient, clean shading,\nstriped wallpaper, cream background, simple background,\npaper texture, slight film grain, soft focus,\nlight novel illustration, muted colors,expressive face",
+    "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),high contrast, harsh shadows, strong rim light,\noversaturated, vivid colors, neon, high saturation,\nthick lineart, black outlines, hard shadows,\ncgi, 3d, glossy, plastic, dramatic lighting,\nharsh highlight, bloom, lens flare, chromatic aberration",
+    "checkpoint": "T-illunai3-v8(final).safetensors",
+    "width": 1216,
+    "height": 832,
+    "steps": 30,
+    "cfg": 5.8,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "seed": -1,
+    "batch": 1,
+    "hires": {
+      "enabled": true,
+      "scale": 1.8,
+      "denoise": 0.6,
+      "steps": 32
+    },
+    "strength": 0.6,
+    "clipSkip": 1,
+    "autoFavorite": false,
+    "style": "",
+    "recipe": "",
+    "referenceStyle": "",
+    "preset": "",
+    "loras": [
+      {
+        "name": "pastel-anime-xl-latest.safetensors",
+        "weight": 0.65
+      },
+      {
+        "name": "handPatchUnet.safetensors",
+        "weight": 0.8
+      }
+    ],
+    "initImageName": "panel_1794805048216.jpg"
+  },
+  "favorites": [
+    {
+      "id": "f-1795201238880",
+      "text": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,exposing the clitoris,Only one view,perfect hands,  correct hands, five fingers, natural hand anatomy, elegant fingers，Proper Physiological Structure，White background,good and correct pussy,small cute pussy",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy",
+      "category": "",
+      "at": 1795201238880
+    },
+    {
+      "id": "f-1795200256616",
+      "text": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,exposing the clitoris,shy,Only one view,perfect hands,  correct hands, five fingers, natural hand anatomy, elegant fingers，Proper Physiological Structure，",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy",
+      "category": "",
+      "at": 1795200256616
+    },
+    {
+      "id": "f-1795187944980",
+      "text": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, standing straight, warm lighting, cinematic lighting, sharp and clean lineart, flat color, kawaii aesthetic, solo character,",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame.",
+      "category": "",
+      "at": 1795187944980
+    }
+  ],
+  "images": [
+    {
+      "id": "img-1794911227701",
+      "name": "comfypanel_t2i_20261117102248_00001_.png",
+      "at": 1794911227701,
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl, extremely shy, soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, standing straight, arms hanging straight down, relaxed pose, warm lighting, cinematic lighting, sharp and clean lineart, flat color, kawaii aesthetic, "
+    }
+  ],
+  "styles": [
+    {
+      "id": "st-1794908965252",
+      "name": "经过测试的版本",
+      "at": 1794908965252,
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "prompt": "score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl, extremely shy, soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, standing straight, arms hanging straight down, relaxed pose, warm lighting, cinematic lighting, sharp and clean lineart, flat color, kawaii aesthetic, ",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame."
+    },
+    {
+      "id": "st-1794837664327",
+      "name": "New version Test",
+      "at": 1794837664327,
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "loras": [
+        {
+          "name": "soft-pastel-anime.safetensors",
+          "weight": 0.7
+        },
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.3
+        }
+      ],
+      "prompt": "1girl, cute anime schoolgirl, soft and moe, silver hair, high twin tails, adorable hair accessories, delicate hair clips, warm lighting, cute ribbons, big eyes, flat color, kawaii aesthetic, expressive face., natural facial asymmetry",
+      "negative": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,4-koma, sketch, (bad:1.05), error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), ugly, (big head, bad anatomy:1.05), artist name, (watermark:1.1)"
+    }
+  ],
+  "styleGroups": [
+    {
+      "id": "sg-1794908626835",
+      "name": "我的收藏"
+    },
+    {
+      "id": "sg-1794908626878",
+      "name": "手绘萌系"
+    },
+    {
+      "id": "sg-1794908626912",
+      "name": "我的画风词"
+    }
+  ],
+  "styleAssign": {
+    "moe-pastel-chibi": "__presets",
+    "handdrawn-moe-half": "手绘萌系",
+    "handdrawn-moe-lookback": "手绘萌系",
+    "soft-pastel-sweet": "我的画风词",
+    "soft-tillu-pastel": "我的画风词",
+    "soft-watercolor-soft": "我的画风词",
+    "soft-storybook-soft": "我的画风词",
+    "soft-animagine-cel": "我的画风词",
+    "soft-kawaii-tillu": "我的画风词",
+    "st-1795191878433": "__presets",
+    "st-1794908965252": "__recipes",
+    "st-1794837664327": "__presets",
+    "st-1795188421392": "我的收藏",
+    "handdrawn-moe-holding": "手绘萌系"
+  },
+  "styleHidden": [
+    "retro"
+  ],
+  "styleEdits": {
+    "st-1795193004973": {
+      "tags": "edited tags"
+    },
+    "defunt": {
+      "tags": "edited recipe prompt",
+      "name": "改名配方"
+    },
+    "st-1795193650852": {
+      "tags": "edited tags"
+    },
+    "st-1795194820068": {
+      "tags": "edited tags"
+    },
+    "st-1795196378259": {
+      "tags": "edited tags"
+    },
+    "st-1795200271475": {
+      "tags": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,exposing the clitoris,Only one view,perfect hands,  correct hands, five fingers, natural hand anatomy, elegant fingers，Proper Physiological Structure，White background,good and correct pussy,small cute pussy",
+      "name": "NSFW"
+    },
+    "st-1795188421392": {
+      "tags": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, standing straight, wa",
+      "name": "(ishikei ryou\\(ryoutarou"
+    },
+    "st-1795201658243": {
+      "tags": "tag_0, tag_1, tag_2, tag_3, tag_4, tag_5, tag_6, tag_7, tag_8, tag_9, tag_10, tag_11, tag_12, tag_13, tag_14, tag_15, tag_16, tag_17, tag_18, tag_19, tag_20, tag_21, tag_22, tag_23, tag_24, tag_25, tag_26, tag_27, tag_28, tag_29, tag_30, tag_31, tag_32, tag_33, tag_34, tag_35, tag_36, tag_37, tag_38, tag_39, tag_40, tag_41, tag_42, tag_43, tag_44, tag_45, tag_46, tag_47, tag_48, tag_49, tag_50, tag_51, tag_52, tag_53, tag_54, tag_55, tag_56, tag_57, tag_58, tag_59, tag_60, tag_61, tag_62, tag_63, tag_64, tag_65, tag_66, tag_67, tag_68, tag_69, tag_70, tag_71, tag_72, tag_73, tag_74, tag_75, tag_76, tag_77, tag_78, tag_79, tag_80, tag_81, tag_82, tag_83, tag_84, tag_85, tag_86, tag_87, tag_88, tag_89, tag_90, tag_91, tag_92, tag_93, tag_94, tag_95, tag_96, tag_97, tag_98, tag_99, tag_100, tag_101, tag_102, tag_103, tag_104, tag_105, tag_106, tag_107, tag_108, tag_109, tag_110, tag_111, tag_112, tag_113, tag_114, tag_115, tag_116, tag_117, tag_118, tag_119, tag_120, tag_121, tag_122, tag_123, tag_124, tag_125, tag_126, tag_127, tag_128, tag_129, tag_130, tag_131, tag_132, tag_133, tag_134, tag_135, tag_136, tag_137, tag_138, tag_139, tag_140, tag_141, tag_142, tag_143, tag_144, tag_145, tag_146, tag_147, tag_148, tag_149, tag_150, tag_151, tag_152, tag_153, tag_154, tag_155, tag_156, tag_157, tag_158, tag_159, tag_160, tag_161, tag_162, tag_163, tag_164, tag_165, tag_166, tag_167, tag_168, tag_169, tag_170, tag_171, tag_172, tag_173, tag_174, tag_175, tag_176, tag_177, tag_178, tag_179, extra_tag"
+    },
+    "st-1795201683574": {
+      "tags": "edited tags"
+    }
+  },
+  "styleGroupLabels": {
+    "builtin": "内置"
+  },
+  "customStyles": [
+    {
+      "id": "st-1794492001361",
+      "name": "手绘萌系",
+      "tags": "painted illustration, soft gouache, paper texture, visible brush strokes, natural proportions, simple background",
+      "group": "手绘萌系"
+    },
+    {
+      "id": "st-1794835479222",
+      "name": "T-illu·绘本萌系",
+      "tags": "painted illustration, soft gouache, paper texture, visible brush strokes, pastel colors, moe, cute",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479260",
+      "name": "T-illu·蜡笔童画",
+      "tags": "crayon, childlike drawing, waxy strokes, paper texture, simple shapes, pastel colors",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479291",
+      "name": "T-illu·水彩少女",
+      "tags": "watercolor, visible brush strokes, paper texture, soft washes, moe, cute, gentle lighting",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479321",
+      "name": "T-illu·Q版粉彩",
+      "tags": "chibi, big eyes, blush, pastel colors, soft shading, moe, cute",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479349",
+      "name": "T-illu·赛璐璐萌",
+      "tags": "anime screencap, cel shading, clean lineart, vivid colors, moe, cute",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479379",
+      "name": "T-illu·水墨小品",
+      "tags": "chinese ink painting, ink wash, brush strokes, minimal composition, paper texture",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479410",
+      "name": "T-illu·柔光粉彩",
+      "tags": "soft anime, pastel colors, soft lighting, moe, cute, gentle smile",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1794835479440",
+      "name": "T-illu·黑底粉彩",
+      "tags": "ncpy13 style, pastels drawing, black background, moe, cute",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1795188421392",
+      "name": "(ishikei ryou\\(ryoutarou",
+      "tags": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, standing straight, wa",
+      "group": "我的画风词"
+    },
+    {
+      "id": "st-1795200271475",
+      "name": "(ishikei ryou\\(ryoutarou",
+      "tags": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,",
+      "group": "我的画风词"
+    }
+  ],
+  "tips": [
+    {
+      "id": "tip-1795356492644",
+      "title": "手部修复LOra推荐",
+      "text": "现在建议这样用\n修手时三选一（不要同时开）：\n\n场景\t选哪个\t权重\n手型明显错、要重画\t手指修正 2.0\t0.55\n只想微调、保住原画风\t手部补丁\t0.8\n快速通用\tnice-hands\t0.7",
+      "group": "高清修复",
+      "images": [],
+      "createdAt": 1795356492644,
+      "updatedAt": 1795356492644
+    },
+    {
+      "id": "tip-1795236724437",
+      "title": "重绘",
+      "text": "使用建议\n场景\t重绘强度\t蒙版扩展\t提示词\n修手\t0.65–0.75\t6–10px\t手部预设\n修五官\t0.45–0.55\t4–8px\t面部预设\n换衣服\t0.75–0.9\t12–20px\t衣物预设\n加细节\t0.3–0.4\t0\t自定义\n重绘强度太低会「看起来没变化」，太高会破坏周边结构 —— 手部建议从 0.7 起调。",
+      "group": "",
+      "images": [],
+      "createdAt": 1795236724437,
+      "updatedAt": 1795236724437
+    },
+    {
+      "id": "tip-1794909066158",
+      "title": "SDXL通用负面提示词",
+      "text": "owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,4-koma, sketch, (bad:1.05), error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), ugly, (big head, bad anatomy:1.05), artist name, (watermark:1.1)",
+      "group": "提示词",
+      "images": [],
+      "createdAt": 1794909066158,
+      "updatedAt": 1794909066158
+    }
+  ],
+  "quickCards": [],
+  "quickHidden": [],
+  "presets": [],
+  "presetHidden": [],
+  "bigjpg": {
+    "key": "",
+    "updatedAt": 1795201683638,
+    "remaining": 988
+  },
+  "history": [
+    {
+      "id": "fb552cdb-cf0c-4b99-ae05-6a3bef3bc927",
+      "at": 1795405760678,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),masterpiece, best quality, 1girl, solo, soft lighting, warm lighting, single light source,low contrast, pale shadows, soft shadows,\ncreamy highlights, warm skin tone, pastel colors, beige tone, warm color palette,\nthin lineart, brown lineart, soft outlines,\nflat color, subtle gradient, clean shading,\nstriped wallpaper, cream background, simple background,\npaper texture, slight film grain, soft focus,\nlight novel illustration, muted colors,expressive face",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),high contrast, harsh shadows, strong rim light,\noversaturated, vivid colors, neon, high saturation,\nthick lineart, black outlines, hard shadows,\ncgi, 3d, glossy, plastic, dramatic lighting,\nharsh highlight, bloom, lens flare, chromatic aberration",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1216,
+      "height": 832,
+      "outWidth": 2192,
+      "outHeight": 1496,
+      "steps": 30,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1026684783,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.65
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261123034744_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261123034744_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "9eece0ac-f582-4879-93cc-40cbdb12138a",
+      "at": 1795405634508,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),masterpiece, best quality, 1girl, solo, soft lighting, warm lighting, single light source,low contrast, pale shadows, soft shadows,\ncreamy highlights, warm skin tone, pastel colors, beige tone, warm color palette,\nthin lineart, brown lineart, soft outlines,\nflat color, subtle gradient, clean shading,\nstriped wallpaper, cream background, simple background,\npaper texture, slight film grain, soft focus,\nlight novel illustration, muted colors",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),high contrast, harsh shadows, strong rim light,\noversaturated, vivid colors, neon, high saturation,\nthick lineart, black outlines, hard shadows,\ncgi, 3d, glossy, plastic, dramatic lighting,\nharsh highlight, bloom, lens flare, chromatic aberration",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1216,
+      "height": 832,
+      "outWidth": 2192,
+      "outHeight": 1496,
+      "steps": 30,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 4206697057,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.65
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261123034543_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261123034543_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "1998e205-7936-4ef8-83da-17c7ef57e99e",
+      "at": 1795405375209,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),masterpiece, best quality, 1girl, solo, upper body,\nsoft lighting, warm lighting, single light source,\nlow contrast, pale shadows, soft shadows,\ncreamy highlights, warm skin tone, pastel colors, beige tone, warm color palette,\nthin lineart, brown lineart, soft outlines,\nflat color, subtle gradient, clean shading,\nstriped wallpaper, cream background, simple background,\npaper texture, slight film grain, soft focus,\nlight novel illustration, muted colors",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),high contrast, harsh shadows, strong rim light,\noversaturated, vivid colors, neon, high saturation,\nthick lineart, black outlines, hard shadows,\ncgi, 3d, glossy, plastic, dramatic lighting,\nharsh highlight, bloom, lens flare, chromatic aberration",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1216,
+      "height": 832,
+      "outWidth": 2192,
+      "outHeight": 1496,
+      "steps": 30,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2614081597,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.65
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261123034114_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261123034114_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "dd15fbc2-45fb-4bdd-b4ac-a9e2a7a96a3b",
+      "at": 1795405237042,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),masterpiece, best quality, 1girl, solo, upper body,\nsoft lighting, warm lighting, single light source,\nlow contrast, pale shadows, soft shadows,\ncreamy highlights, warm skin tone, pastel colors, beige tone, warm color palette,\nthin lineart, brown lineart, soft outlines,\nflat color, subtle gradient, clean shading,\nstriped wallpaper, cream background, simple background,\npaper texture, slight film grain, soft focus,\nlight novel illustration, muted colors",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),high contrast, harsh shadows, strong rim light,\noversaturated, vivid colors, neon, high saturation,\nthick lineart, black outlines, hard shadows,\ncgi, 3d, glossy, plastic, dramatic lighting,\nharsh highlight, bloom, lens flare, chromatic aberration",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1216,
+      "height": 832,
+      "outWidth": 2192,
+      "outHeight": 1496,
+      "steps": 30,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1223079600,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.65
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261123033856_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261123033856_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "88595bc0-a0b4-4833-b27c-c2db5a36a7d5",
+      "at": 1795405105560,
+      "mode": "t2i",
+      "prompt": "masterpiece, best quality, 1girl, solo, upper body,\nsoft lighting, warm lighting, single light source,\nlow contrast, pale shadows, soft shadows,\ncreamy highlights, warm skin tone, pastel colors, beige tone, warm color palette,\nthin lineart, brown lineart, soft outlines,\nflat color, subtle gradient, clean shading,\nstriped wallpaper, cream background, simple background,\npaper texture, slight film grain, soft focus,\nlight novel illustration, muted colors",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),high contrast, harsh shadows, strong rim light,\noversaturated, vivid colors, neon, high saturation,\nthick lineart, black outlines, hard shadows,\ncgi, 3d, glossy, plastic, dramatic lighting,\nharsh highlight, bloom, lens flare, chromatic aberration",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1216,
+      "height": 832,
+      "outWidth": 2192,
+      "outHeight": 1496,
+      "steps": 30,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 976280361,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.65
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261123033629_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261123033629_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "8f4b2faf-9fcd-45d6-bfad-739f552767c7",
+      "at": 1795357164508,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,perfect hands, detailed hands, correct hands, (five fingers:1.5),(well-drawn fingers:1.2), natural hand anatomy, elegant fingers,exposing the clitoris,Only one view，(Proper Physiological Structure:1.2)，White background,good and correct pussy,(small cute pussy:1.2),pussy being penetrated by Penis,Cute Atmosphere",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1216,
+      "height": 832,
+      "outWidth": 2192,
+      "outHeight": 1496,
+      "steps": 30,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2533803147,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.55,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.65
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "st-1795200271475",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261122141743_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261122141743_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "1ebe13e3-5c16-4bea-b586-cc75ef118bb9",
+      "at": 1795356958265,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,perfect hands, detailed hands, correct hands, (five fingers:1.5),(well-drawn fingers:1.2), natural hand anatomy, elegant fingers,exposing the clitoris,Only one view，(Proper Physiological Structure:1.2)，White background,good and correct pussy,(small cute pussy:1.2),pussy being penetrated by Penis,Cute Atmosphere",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 808,
+      "height": 1192,
+      "outWidth": 1456,
+      "outHeight": 2144,
+      "steps": 32,
+      "cfg": 6,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 769837228,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.8
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "st-1795200271475",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261122141426_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261122141426_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "e649aee5-41e3-4d8b-8436-bf87d13eb3ff",
+      "at": 1795356793434,
+      "mode": "t2i",
+      "prompt": "(ishikei,ryou\\(ryoutarou\\),yuuhagi \\(amaretto-no-natsu\\),refeia,cierra\\(ra-bit\\):1.05),hiten,score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra-detailed, 1girl, solo, single full body portrait, cute anime schoolgirl,  soft and moe, expressive face, blushing, natural facial asymmetry, silver hair, high twin tails, blunt bangs, red eyes, cute hair accessories, delicate hair clips, hair ribbons, flat chest, petite, wearing white sailor shirt, brown sailor collar, cute brown short pleated skirt, white thigh-high socks, black Mary Jane leather shoes, wa,Lift up her skirt,perfect hands, detailed hands, correct hands, (five fingers:1.5),(well-drawn fingers:1.2), natural hand anatomy, elegant fingers,exposing the clitoris,Only one view，(Proper Physiological Structure:1.2)，White background,good and correct pussy,(small cute pussy:1.2),pussy being penetrated by Penis,Cute Atmosphere",
+      "negative": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra fingers, deformed face, generic AI face, plastic skin, 3D, realistic, photorealistic, text, watermark, signature, dirty, messy background, multiple views, multiple faces, split screen, collage, character sheet, reference sheet, cropped, out of frame,bad hands, deformed hands, extra fingers, missing fingers, fused fingers, extra digits, fewer digits, mutated hands, poorly drawn hands, malformed limbs, extra arms, fused arms, disconnected limbs, long fingers, twisted fingers, claws, poor hand anatomy,six fingers,added fingers,(bad hands:1.2),",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 808,
+      "height": 1192,
+      "outWidth": 1456,
+      "outHeight": 2144,
+      "steps": 32,
+      "cfg": 6,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2422099475,
+      "batch": 1,
+      "hires": {
+        "enabled": true,
+        "scale": 1.8,
+        "denoise": 0.6,
+        "steps": 32
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "pastel-anime-xl-latest.safetensors",
+          "weight": 0.8
+        },
+        {
+          "name": "handPatchUnet.safetensors",
+          "weight": 0.8
+        }
+      ],
+      "style": "st-1795200271475",
+      "quality": "custom",
+      "images": [
+        {
+          "filename": "comfypanel_t2i_20261122141121_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_t2i_20261122141121_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "2e0fd380-28d2-4941-89e8-f432e274c4e8",
+      "at": 1795356189436,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws，extra fingers, six fingers, seven fingers, fused fingers,\nmissing fingers, extra digits, mutated hands, deformed hand,\nbad hands, poorly drawn hands, malformed hand, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 3012215198,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.75,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122140218_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122140218_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "69ec1571-4a51-4eeb-b207-b380e9c5a1b9",
+      "at": 1795356122020,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws，extra fingers, six fingers, seven fingers, fused fingers,\nmissing fingers, extra digits, mutated hands, deformed hand,\nbad hands, poorly drawn hands, malformed hand, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 4214121360,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.95,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122140110_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122140110_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "6afabe87-b2c4-42f4-ab4a-6bb80a9d6293",
+      "at": 1795356029122,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws，extra fingers, six fingers, seven fingers, fused fingers,\nmissing fingers, extra digits, mutated hands, deformed hand,\nbad hands, poorly drawn hands, malformed hand, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1142162420,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.95,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122135937_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122135937_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "f0057af1-3e80-42ca-a5f1-15447a6947e0",
+      "at": 1795355929465,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws，extra fingers, six fingers, seven fingers, fused fingers,\nmissing fingers, extra digits, mutated hands, deformed hand,\nbad hands, poorly drawn hands, malformed hand, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 3975952327,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.8,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122135800_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122135800_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "49e99247-4c41-4f84-bdda-074f8efeeb4a",
+      "at": 1795355853463,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws，extra fingers, six fingers, seven fingers, fused fingers,\nmissing fingers, extra digits, mutated hands, deformed hand,\nbad hands, poorly drawn hands, malformed hand, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2076432542,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.65,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122135644_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122135644_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "3ffeb7c1-1a36-4172-8ba0-93f29058ba7f",
+      "at": 1795355773863,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws，extra fingers, six fingers, seven fingers, fused fingers,\nmissing fingers, extra digits, mutated hands, deformed hand,\nbad hands, poorly drawn hands, malformed hand, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2382135806,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.65,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122135521_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122135521_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "2602bcee-313c-4296-a0af-583a2b85e3d3",
+      "at": 1795355666851,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 4126591552,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.65,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122135324_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122135324_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "ecec93bf-60e6-402d-99d0-fd3134df3b93",
+      "at": 1795355555577,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 3590641627,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.65,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261122135113_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261122135113_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "d52664da-a56d-4771-ad34-8af34e4a1317",
+      "at": 1795247996097,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 3841077194,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.65,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121075848_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121075848_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "b6c9de4e-4a5e-452e-ba4d-dec5c7202567",
+      "at": 1795247184105,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 3847187513,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121074523_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121074523_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "98bcbe11-b64b-473f-9d80-896ab71c9c4f",
+      "at": 1795247001330,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1386003812,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121074211_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121074211_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "505e77b2-4b6b-4a37-b35d-32bd86f8f153",
+      "at": 1795246612122,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1280570495,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121073604_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121073604_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "0ec3692b-3a57-471b-847e-38b19bc05985",
+      "at": 1795246498641,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2161199914,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121073411_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121073411_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "19a675da-9033-46b2-846a-f33b5569eb6d",
+      "at": 1795246416751,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 3433135823,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121073245_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121073245_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "aa8ed6d6-7c68-4333-9bbc-29e3b75ff044",
+      "at": 1795246287935,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2877828162,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121073026_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121073026_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "640f25e0-f912-44f5-bc41-47ae4173c98a",
+      "at": 1795246199257,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1799202071,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121072851_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121072851_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "a3d88689-8b9a-4e10-9a9a-1016055f1fde",
+      "at": 1795245846265,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2997283366,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121072256_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121072256_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "7b894af6-6827-4110-ac9d-311feea98ca1",
+      "at": 1795245366065,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 651515199,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121071501_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121071501_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "25e00225-8ef5-47fa-8a64-05cd7e692c72",
+      "at": 1795244863428,
+      "mode": "inpaint",
+      "prompt": "perfect hands",
+      "negative": "bad hands, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 8,
+      "cfg": 6,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121070707_00002_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121070707_00002_.png"
+        }
+      ]
+    },
+    {
+      "id": "3d7f2b85-9940-4adf-8652-b799f905db49",
+      "at": 1795244847000,
+      "mode": "inpaint",
+      "prompt": "perfect hands",
+      "negative": "bad hands, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 8,
+      "cfg": 6,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 1,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.6,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121070707_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121070707_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "5f013275-0739-4a92-80f1-a6de95b265cb",
+      "at": 1795244731805,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2727023195,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121070431_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121070431_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "ab9d0ac8-035f-4d5e-ad20-d250735f3535",
+      "at": 1795244624694,
+      "mode": "inpaint",
+      "prompt": "perfect hands, five fingers",
+      "negative": "extra fingers, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 10,
+      "cfg": 6.5,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 4242,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121070301_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121070301_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "3fad56b0-bfa2-4a4d-ada0-fd860498cfd7",
+      "at": 1795244376308,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2060035065,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121065831_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121065831_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "3cb21da2-ccf2-4396-8e97-47afbb1ef41c",
+      "at": 1795244055528,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2595683941,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121065325_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121065325_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "e3179659-6799-4d01-a8a6-2b34e575b73b",
+      "at": 1795243973607,
+      "mode": "inpaint",
+      "prompt": "perfect hands, five fingers",
+      "negative": "extra fingers, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 12,
+      "cfg": 6.5,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 202,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121065139_00002_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121065139_00002_.png"
+        }
+      ]
+    },
+    {
+      "id": "5187c9fe-229c-4087-9cdf-76a7403d8dfe",
+      "at": 1795243938155,
+      "mode": "inpaint",
+      "prompt": "perfect hands, five fingers",
+      "negative": "extra fingers, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 12,
+      "cfg": 6.5,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 101,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121065139_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121065139_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "f6248f47-e4c2-46ad-b259-3dbf75fa5759",
+      "at": 1795243819676,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 462843821,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121064930_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121064930_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "e893be02-bfe0-4e66-8d0e-df5cdf46d579",
+      "at": 1795243706295,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2398138836,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121064721_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121064721_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "631aabb3-47a8-4fa8-b842-93f7780ad779",
+      "at": 1795243405870,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 2633232756,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121064219_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121064219_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "adb7ba84-ebca-4110-947c-f323cba348f9",
+      "at": 1795242611173,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 329248788,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121062923_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121062923_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "32bb9c75-23f3-45c9-8480-bf1a9eff0f05",
+      "at": 1795242511953,
+      "mode": "inpaint",
+      "prompt": "detailed hands, correct hands,(well-drawn fingers:1.2), (natural hand anatomy:1.5), elegant fingers,(perfect hands:1.3), (five fingers:1.35), correct hand anatomy,\nwell-drawn fingers, natural wrist, clean lineart, single hand",
+      "negative": "extra fingers, six fingers, seven fingers, fused fingers, missing fingers,\nfewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands,\nbad hands, extra hand, third hand, malformed hand, tangled fingers, claws, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 32,
+      "cfg": 7,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 4204503816,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121062732_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121062732_00001_.png"
+        }
+      ]
+    },
+    {
+      "id": "bafbcdf1-ab6b-4572-82d2-410d5a6396d9",
+      "at": 1795242333195,
+      "mode": "inpaint",
+      "prompt": "perfect hands, five fingers",
+      "negative": "lowres, blurry, extra fingers, six fingers, seven fingers, fused fingers, missing fingers, fewer fingers, extra digits, mutated hands, deformed hand, poorly drawn hands, bad hands, extra hand, third hand, malformed hand, tangled fingers, claws",
+      "checkpoint": "T-illunai3-v8(final).safetensors",
+      "width": 1824,
+      "height": 1248,
+      "outWidth": 1824,
+      "outHeight": 1248,
+      "steps": 20,
+      "cfg": 6.5,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "seed": 777,
+      "batch": 1,
+      "hires": {
+        "enabled": false
+      },
+      "strength": 0.7,
+      "clipSkip": 1,
+      "referenceTags": "",
+      "loras": [
+        {
+          "name": "fingers_adjuster_illustrious0.1_v1.0.safetensors",
+          "weight": 0.6
+        }
+      ],
+      "style": "",
+      "quality": "inpaint",
+      "images": [
+        {
+          "filename": "comfypanel_inpaint_20261121062442_00001_.png",
+          "subfolder": "",
+          "node": "41",
+          "url": "/comfy-panel/image?path=comfypanel_inpaint_20261121062442_00001_.png"
+        }
+      ]
+    }
+  ]
+}
