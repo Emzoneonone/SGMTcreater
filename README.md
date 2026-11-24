@@ -13,3 +13,5 @@ SGMTcreater的初衷是为了简化麻烦的生成式ai的流程图，替代以�
 4.README.md副本
 5.图标程序
 6.程序组件
+联系方式：suyuxuan55@gmail.com
+#联系不到就受着
